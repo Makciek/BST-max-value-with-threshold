@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/BST.Test/bin/Debug
+/BST.Test/obj
+/BST/bin/Debug/netstandard2.0
+/BST/obj
